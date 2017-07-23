@@ -45,15 +45,18 @@ const defaulStyles = {
     color: '#fff',
     fontSize: 30,
     paddingBottom: 20,
+    fontFamily: 'Rubik-Bold',
   },
   description: {
     color: '#fff',
     fontSize: 20,
+    fontFamily: 'Rubik-Medium',
   },
   controllText: {
     color: '#fff',
     fontSize: 22,
     fontWeight: 'bold',
+    fontFamily: 'Rubik-Medium',
   },
   dotStyle: {
     backgroundColor: 'rgba(255,255,255,.3)',
@@ -94,7 +97,7 @@ const defaulStyles = {
   nextButtonText: {
     fontSize: 25,
     fontWeight: 'bold',
-    fontFamily: 'Arial',
+    fontFamily: 'Rubik-Light',
   },
   full: {
     height: 80,
