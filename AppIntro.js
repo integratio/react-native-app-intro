@@ -56,7 +56,7 @@ const defaulStyles = {
     color: '#fff',
     fontSize: 22,
     fontWeight: 'bold',
-    fontFamily: 'Rubik-Medium',
+    fontFamily: 'Rubik-Light',
   },
   dotStyle: {
     backgroundColor: 'rgba(255,255,255,.3)',
