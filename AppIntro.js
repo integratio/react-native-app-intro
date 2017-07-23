@@ -54,7 +54,7 @@ const defaulStyles = {
   },
   controllText: {
     color: '#fff',
-    fontSize: 20,
+    fontSize: 18,
     fontWeight: 'bold',
     fontFamily: 'Rubik-Light',
   },
