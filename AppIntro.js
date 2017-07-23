@@ -54,7 +54,7 @@ const defaulStyles = {
   },
   controllText: {
     color: '#fff',
-    fontSize: 22,
+    fontSize: 20,
     fontWeight: 'bold',
     fontFamily: 'Rubik-Light',
   },
@@ -95,7 +95,7 @@ const defaulStyles = {
     height: 50,
   },
   nextButtonText: {
-    fontSize: 25,
+    fontSize: 23,
     fontWeight: 'bold',
     fontFamily: 'Rubik-Light',
   },
